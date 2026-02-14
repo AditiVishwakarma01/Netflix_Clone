@@ -1,3 +1,5 @@
+🎬 Netflix Clone — Web Development Internship Project
+
 This project is a fully responsive Netflix Landing Page Clone developed as part of my Web Development Virtual Internship at Bharat Intern (September 10, 2023 – October 10, 2023).
 
 The objective of this project was to understand real-world front-end development practices including responsive UI design, layout structuring, and DOM manipulation using vanilla JavaScript.
