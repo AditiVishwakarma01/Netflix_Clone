@@ -4,7 +4,8 @@ This project is a fully responsive Netflix Landing Page Clone developed as part 
 
 The objective of this project was to understand real-world front-end development practices including responsive UI design, layout structuring, and DOM manipulation using vanilla JavaScript.
 
-FEATURES✨ 
+
+✨FEATURES
 
 Responsive Netflix-style landing page
 
@@ -24,6 +25,7 @@ Footer navigation links
 
 Hover and transition animations
 
+
 TECH STACK✨
 
 HTML5 — Page structure and semantic layout
@@ -32,7 +34,8 @@ CSS3 — Flexbox, Grid, styling, responsiveness
 
 JavaScript (Vanilla JS) — Interactivity and DOM manipulation
 
-WHAT I LEARNED✨
+
+✨WHAT I LEARNED
 
 Responsive layout design
 
@@ -48,13 +51,15 @@ Multi-language UI handling
 
 Web project structuring
 
-PREVIEW✨
+
+✨PREVIEW
 
 
 
-INTERNSHIP DETAILS✨
+✨INTERNSHIP DETAILS
 
 This project was created as part of the Bharat Intern Web Development Virtual Internship Program, where I implemented a real-world website interface to strengthen my front-end development skills.
+
 
 AUTHOR🌸
 
