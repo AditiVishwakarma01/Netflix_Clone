@@ -14,12 +14,6 @@ https://aditivishwakarma01.github.io/Netflix_Clone/
 
 ---
 
-## 📸 Preview
-
-![Hero Section](Main_lang.png)
-
----
-
 ## ✨ Features
 
 * Responsive Netflix-style landing page
