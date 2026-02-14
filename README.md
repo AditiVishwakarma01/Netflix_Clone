@@ -26,7 +26,7 @@ Footer navigation links
 Hover and transition animations
 
 
-TECH STACK✨
+✨TECH STACK
 
 HTML5 — Page structure and semantic layout
 
@@ -50,10 +50,6 @@ Accordion UI implementation
 Multi-language UI handling
 
 Web project structuring
-
-
-✨PREVIEW
-
 
 
 ✨INTERNSHIP DETAILS
