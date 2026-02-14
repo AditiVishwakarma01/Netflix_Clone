@@ -1,64 +1,83 @@
-🎬 Netflix Clone — Web Development Internship Project
+# 🎬 Netflix Clone — Front-End Web Project
 
-This project is a fully responsive Netflix Landing Page Clone developed as part of my Web Development Virtual Internship at Bharat Intern (September 10, 2023 – October 10, 2023).
+A fully responsive Netflix landing page clone built using **HTML, CSS and Vanilla JavaScript** as part of my **Web Development Virtual Internship at Bharat Intern (Sept–Oct 2023).**
 
-The objective of this project was to understand real-world front-end development practices including responsive UI design, layout structuring, and DOM manipulation using vanilla JavaScript.
+This project recreates the UI/UX of Netflix’s homepage, focusing on layout accuracy, responsiveness, and interactive components.
 
+---
 
-✨FEATURES
+## 🌐 Live Website
 
-Responsive Netflix-style landing page
+https://aditivishwakarma01.github.io/Netflix_Clone/
 
-Hero banner with background poster grid
+*(Open on desktop for best experience)*
 
-Email validation input
+---
 
-Interactive FAQ accordion section
+## 📸 Preview
 
-Language switch (English ↔ Hindi)
+![Hero Section](Main_lang.png)
 
-Translated Hindi interface
+---
 
-Modal welcome popup
+## ✨ Features
 
-Footer navigation links
+* Responsive Netflix-style landing page
+* Hero banner with poster collage background
+* Email validation input field
+* Interactive FAQ accordion
+* Language switch (English ⇄ Hindi)
+* Welcome modal popup
+* Footer navigation links
+* Hover effects & smooth transitions
+* Mobile responsive layout
 
-Hover and transition animations
+---
 
+## 🛠️ Tech Stack
 
-✨TECH STACK
+| Technology               | Usage                                  |
+| ------------------------ | -------------------------------------- |
+| **HTML5**                | Page structure & semantic layout       |
+| **CSS3**                 | Flexbox, Grid, styling, responsiveness |
+| **JavaScript (Vanilla)** | DOM manipulation & interactivity       |
 
-HTML5 — Page structure and semantic layout
+---
 
-CSS3 — Flexbox, Grid, styling, responsiveness
+## 📚 What I Learned
 
-JavaScript (Vanilla JS) — Interactivity and DOM manipulation
+* Building responsive layouts using Flexbox & Grid
+* Replicating real-world UI designs pixel-accurately
+* DOM manipulation with JavaScript
+* Creating accordions & modal popups
+* Handling form validation
+* Organizing a multi-file front-end project
+* Deploying a live website using **GitHub Pages**
 
+---
 
-✨WHAT I LEARNED
+## 🧾 Internship Context
 
-Responsive layout design
+This project was developed during my **Web Development Virtual Internship at Bharat Intern** as a practical exercise to understand real-world front-end development workflows and UI implementation.
 
-Positioning and overlay techniques
+---
 
-JavaScript event handling
+## 🚀 How to Run Locally
 
-Form validation
+1. Download or clone the repository
+2. Open the folder
+3. Double-click `index.html`
 
-Accordion UI implementation
+No installations required — runs directly in the browser.
 
-Multi-language UI handling
+---
 
-Web project structuring
+## 👩‍💻 Author
 
+**Aditi Vishwakarma**
 
-✨INTERNSHIP DETAILS
+Aspiring Software Engineer | Front-End Development | AI Enthusiast
 
-This project was created as part of the Bharat Intern Web Development Virtual Internship Program, where I implemented a real-world website interface to strengthen my front-end development skills.
+---
 
-
-AUTHOR🌸
-
-Aditi Vishwakarma
-
-Aspiring AI & Computer Science graduate student with interests in software development, machine learning and human-centered technology.
+⭐ If you like this project, consider giving it a star!
